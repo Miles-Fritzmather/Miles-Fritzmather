@@ -56,7 +56,3 @@ I love making stuff (as is clear by my repo count), but right now there are four
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-AAAAAA?style=for-the-badge&logo=linux&logoColor=white)
-
-<div align="center">
-  <strong>"What starts here changes the world"</strong>
-</div>
