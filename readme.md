@@ -6,13 +6,13 @@ Hey! I'm Miles Fritzmather. I am currently studying Computer Science at the [Uni
 
 I love making stuff (as is clear by my repo count), but right now there are four big things taking up my time:
 
-[School](https://www.utexas.edu/): I am taking courses across the spectrum of CS from Operating Systems to Pitch to Prototype.
+> [School](https://www.utexas.edu/): I am taking courses across the spectrum of CS from Operating Systems to Pitch to Prototype.
 
 > [Longhorn Developers](https://github.com/Longhorn-Developers): As the SWE lead of the organization, I work to keep the dozen plus teams and more than 50 up and coming software engineers on track making tools for UT students like [UT Registration Plus](https://github.com/Longhorn-Developers/UT-Registration-Plus) and [UT Dining](https://github.com/Longhorn-Developers/UT-Dining)
 
-[Relay](https://relay-law.com): While no one likes people talking about their startup, I'm hopeful the work here in privacy focused and self hosted AI workstations for lawyers is interesting.
+> [Relay](https://relay-law.com): While no one likes people talking about their startup, I'm hopeful the work here in privacy focused and self hosted AI workstations for lawyers is interesting.
 
-[Job Applications](https://miles-fritzmather.github.io/my-website/): I am looking for a summer internship! If what I am capable looks like someone you want on your team, reach out to me! 
+> [Job Applications](https://miles-fritzmather.github.io/my-website/): I am looking for a summer internship! If what I am capable looks like someone you want on your team, reach out to me! 
 
 ## Skills
 
