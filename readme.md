@@ -1,44 +1,53 @@
-<!-- ============================================================ -->
-<!--  PROFILE README                                              -->
-<!--  Replace "mlf3398" in the stats card URL below if your       -->
-<!--  GitHub username is different.                               -->
-<!-- ============================================================ -->
+# Hello, World
 
-<div align="center">
+Hey! I'm Miles Fritzmather. I am currently studying Computer Science at the [University of Texas at Austin](https://www.utexas.edu) and building all sorts of cool stuff (this is your chance to take a look).
 
-# Miles
+## What I'm working on at the moment
 
-**Computer Science @ UT Austin · SWE Lead @ Longhorn Developers · Co-founder of Relay**
+I love making stuff, as is clear by my repo count, but right now there are three big things taking up my time:
 
-</div>
+- School: I am taking courses across the spectrum of CS from Operating Systems to Pitch to Prototype.
+- [Longhorn Developers](https://github.com/Longhorn-Developers): As the SWE lead of the organization, I work to keep the dozen plus teams and more than 50 up and coming software engineers on track making tools for UT students like [UT Registration Plus](https://github.com/Longhorn-Developers/UT-Registration-Plus) and [UT Dining](https://github.com/Longhorn-Developers/UT-Dining)
+- [Relay](https://relay-law.com): While no one likes people talking about their startup, I'm hopeful the work here in privacy focused and self hosted AI workstations for lawyers is interesting.
 
----
+## Skills
 
-I'm a CS student who likes building software that's useful, careful, and a little opinionated. Most of my time goes to leading engineering for a large student org and to a startup of my own — but I'm just as happy deep in a systems problem, a frontend detail, or a book on the ancient world.
+**Web**
 
-### What I'm doing
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![WXT](https://img.shields.io/badge/WXT-67D55E?style=for-the-badge&logo=wxt&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**🧑‍💻 SWE Lead — [Longhorn Developers](https://github.com/Longhorn-Developers)**
-Coordinating engineering across 11+ teams and 100+ student builders, shipping tools the UT community actually uses.
+**Data**
 
-**⚖️ Co-founder — [Relay](https://relay-law.com)**
-A privacy-first AI paralegal for small law firms — on-premises, with data that never leaves the office.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**🎓 Student & Researcher — UT Austin**
-Sophomore in CS, plus a research role with the School of Geosciences doing data management and frontend work.
+**Low level**
 
-### Outside the terminal
-
-Greek myth, the economics of antiquity, and the occasional rabbit hole into local LLM hardware.
-
-### Working with
-
-`TypeScript` · `React` · `Python` · `C` · `Tailwind` · `Docker` · `Vercel` · `Linear`
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?usernameMiles-Fritzmatherf&show_icons=true&hide_border=true&title_color=8b949e&icon_color=8b949e&text_color=8b949e&bg_color=00000000" alt="GitHub stats" />
-
-</div>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
