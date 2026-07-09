@@ -16,7 +16,7 @@ I love making stuff (as is clear by my repo count), but right now there are four
 
 > [Personal Projects](https://www.milesfm.me): If that all wasn't enough, I can't help myself but make some other cool things I feel like the world needed. I have built a few raycast extensions already, am in the process of making my quick notes app public, and am currently working on an iPad app for handwritten notes in the art style of the Apple Design Award's Winner, Grug. 
 
-> [Job Applications](miles.fritzmather@gmail.com): I am looking for a summer internship! If what I am capable of looks like someone you want on your team, reach out to me!
+> [Job Applications](mailto:miles.fritzmather@gmail.com): I am looking for a summer internship! If what I am capable of looks like someone you want on your team, reach out to me!
 
 ## Skills
 
