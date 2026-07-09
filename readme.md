@@ -4,8 +4,6 @@ Hey! I'm Miles Fritzmather. I am currently studying Computer Science at the [Uni
 
 ## What I'm working on at the moment
 
-I love making stuff (as is clear by my repo count), but right now there are four big things taking up my time:
-
 > [School](https://www.utexas.edu/): I am taking courses across the spectrum of CS from Operating Systems to Pitch to Prototype.
 
 > [Longhorn Developers](https://github.com/Longhorn-Developers): As the SWE lead of the organization, I work to keep the dozen plus teams and more than 50 up and coming software engineers on track making tools for UT students like [UT Registration Plus](https://github.com/Longhorn-Developers/UT-Registration-Plus) and [UT Dining](https://github.com/Longhorn-Developers/UT-Dining)
