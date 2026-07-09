@@ -12,7 +12,11 @@ I love making stuff (as is clear by my repo count), but right now there are four
 
 > [Relay](https://relay-law.com): While no one likes people talking about their startup, I'm hopeful the work here in privacy focused and self hosted AI workstations for lawyers is interesting.
 
-> [Job Applications](https://miles-fritzmather.github.io/my-website/): I am looking for a summer internship! If what I am capable looks like someone you want on your team, reach out to me! 
+> [Research Internship](https://www.jsg.utexas.edu/): I have been working as an intern for Jay Banner's research team by building them a new website and doing massive data organization on the 30+ years of records they have. The website is being built along side the School of Geosciences IT department and will be an official tool for all research teams.
+
+> [Personal Projects](https://www.milesfm.me): If that all wasn't enough, I can't help myself but make some other cool things I feel like the world needed. I have built a few raycast extensions already, am in the process of making my quick notes app public, and am currently working on an iPad app for handwritten notes in the art style of the Apple Design Award's Winner, Grug. 
+
+> [Job Applications](miles.fritzmather@gmail.com): I am looking for a summer internship! If what I am capable of looks like someone you want on your team, reach out to me!
 
 ## Skills
 
