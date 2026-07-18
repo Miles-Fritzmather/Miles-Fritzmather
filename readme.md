@@ -1,6 +1,6 @@
 # Hello, World!
 
-Hey! I'm Miles Fritzmather. I am currently studying Computer Science at the [University of Texas at Austin](https://www.utexas.edu) and building all sorts of cool stuff. Please take a look!
+Hey! I'm Miles Fritzmather. I am currently studying Computer Science and Mathematics at the [University of Texas at Austin](https://www.utexas.edu) and building all sorts of cool stuff. Please take a look!
 
 ## What I'm working on at the moment
 
